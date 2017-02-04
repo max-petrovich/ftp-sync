@@ -1,0 +1,12 @@
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTP\bin\Debug\FTP.dll
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTP\bin\Debug\FTP.pdb
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTP\obj\Debug\FTP.csprojResolveAssemblyReference.cache
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTP\obj\Debug\FTP.dll
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTP\obj\Debug\FTP.pdb
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\bin\Debug\FTP.dll
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\bin\Debug\FTP.pdb
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\obj\Debug\FTP.csprojResolveAssemblyReference.cache
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\obj\Debug\FTP.dll
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\obj\Debug\FTP.pdb
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\bin\Debug\System.Net.FtpClient.pdb
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\bin\Debug\System.Net.FtpClient.xml

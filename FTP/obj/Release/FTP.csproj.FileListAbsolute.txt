@@ -1,0 +1,8 @@
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\bin\Release\FTP.dll
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\bin\Release\FTP.pdb
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\obj\Release\FTP.dll
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\obj\Release\FTP.pdb
+c:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\bin\Release\System.Net.FtpClient.dll
+c:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\bin\Release\System.Net.FtpClient.pdb
+c:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\bin\Release\System.Net.FtpClient.xml
+c:\Users\Maxic\Documents\git\KGO\FTPsync\FTP\obj\Release\FTP.csprojResolveAssemblyReference.cache

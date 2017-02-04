@@ -1,0 +1,31 @@
+C:\Users\Maxic\Documents\git\MIAPR\lab1_miapr\FTPsync\FTPsync\bin\Debug\FTPsync.exe.config
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTPsync\bin\Debug\FTPsync.exe.config
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTPsync\bin\Debug\FTPsync.exe
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTPsync\bin\Debug\FTPsync.pdb
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTPsync\obj\Debug\FTPsync.csprojResolveAssemblyReference.cache
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTPsync\obj\Debug\FTPsync.Form1.resources
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTPsync\obj\Debug\FTPsync.Properties.Resources.resources
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTPsync\obj\Debug\FTPsync.csproj.GenerateResource.Cache
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTPsync\obj\Debug\FTPsync.exe
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTPsync\obj\Debug\FTPsync.pdb
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTPsync\bin\Debug\FTP.dll
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTPsync\bin\Debug\FTP.pdb
+C:\Users\Maxic\Documents\Visual Studio 2013\Projects\FTPsync\FTPsync\obj\Debug\FTPsync.FTP_form.resources
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\bin\Debug\FTPsync.exe.config
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\obj\Debug\FTPsync.exe
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\obj\Debug\FTPsync.pdb
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\bin\Debug\FTPsync.exe
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\bin\Debug\FTPsync.pdb
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\bin\Debug\FTP.dll
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\bin\Debug\FTP.pdb
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\obj\Debug\FTPsync.csprojResolveAssemblyReference.cache
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\obj\Debug\FTPsync.Form1.resources
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\obj\Debug\FTPsync.Properties.Resources.resources
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\obj\Debug\FTPsync.csproj.GenerateResource.Cache
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\obj\Debug\FTPsync.ServerForm.resources
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\obj\Debug\FTPsync.DirListForm.resources
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\obj\Debug\FTPsync.GetListLogForm.resources
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\bin\Debug\System.Net.FtpClient.dll
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\bin\Debug\System.Net.FtpClient.pdb
+C:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\bin\Debug\System.Net.FtpClient.xml
+c:\Users\Maxic\Documents\git\KGO\FTPsync\FTPsync\obj\Debug\FTPsync.CopyFileForm.resources
